@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static Naidis_C.Osa3;
 
 namespace Naidis_C
 {
